@@ -9,6 +9,9 @@ Esse repositório foi criado apenas para as aulas de INTRODUÇÃO A PROGRAMAÇÃ
 
 O TED - AULA 09 é um projeto de WebScraping e consiste em coletar dados com quais você irá trabalhar.
 
+AULA 09 - Contém uma lista de Exercícios básicos feitos em Python.
+
+
 
 ## Referência
 
