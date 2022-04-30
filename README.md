@@ -11,6 +11,8 @@ O TED - AULA 09 é um projeto de WebScraping e consiste em coletar dados com qua
 
 AULA 09 - Contém uma lista de Exercícios básicos feitos em Python.
 
+TED AULA 10 -  Contém exercício sobre matrizes e vetores em Python
+
 
 
 ## Referência
